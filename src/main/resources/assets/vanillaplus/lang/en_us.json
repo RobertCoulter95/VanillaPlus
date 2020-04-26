@@ -1,0 +1,19 @@
+{
+  "item.vanillaplus.example_item": "Example Item",
+  "block.vanillaplus.example_block": "Example Block",
+
+  "item.VanillaPlus.example_spear": "Example Spear",
+  "item.VanillaPlus.example_pickaxe": "Example Pickaxe",
+  "item.VanillaPlus.example_shovel": "Example Shovel",
+  "item.VanillaPlus.example_Axe": "Example Axe",
+  "item.VanillaPlus.example_Hoe": "Example Hoe",
+
+  "item.VanillaPlus.test_helmet": "Test Helmet",
+  "item.VanillaPlus.test_chestplate": "Test Chestplate",
+  "item.VanillaPlus.test_leggings": "Test Leggings",
+  "item.VanillaPlus.test_boots": "Test Boots",
+
+  "block.VanillaPlus.example_block": "Example Block",
+  "itemGroup.VanillaTab": "Dev Items"
+
+}

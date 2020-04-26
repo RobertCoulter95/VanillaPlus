@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "vanillaplus:example_item",
+    "minecraft:apple"
+  ]
+}
